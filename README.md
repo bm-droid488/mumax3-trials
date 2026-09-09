@@ -1,2 +1,2 @@
 # mumax3-trials
-A box that contains my  first approach on Mumax3 on Google Colab
+A box that contains my  first approach to Mumax3 on Google Colab
